@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshaedubilli/Assignments.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshaedubilli/Assignments/issues"
+  },
+  "homepage": "https://github.com/harshaedubilli/Assignments#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^18.2.0"
+  }
+}
